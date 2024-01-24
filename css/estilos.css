@@ -379,21 +379,22 @@ footer{
     }
 }
 
-.socials a{
-    display: inline-block;
-    min-height: 40px;
-    width: 40px;
-    background-color: #fa009a7a;
-    margin: 0 15px 10px 0;
-    text-align: center;
-    line-height: 40px;
-    border-radius: 50%;
-    color: #ffff;
-    font-size: 20px;
-&:hover{
-    background-color: #ffffff6b;
-}
-}
+    .socials a{
+        display: inline-block;
+        min-height: 40px;
+        width: 40px;
+        background-color: #fa009a7a;
+        margin: 0 15px 10px 0;
+        text-align: center;
+        line-height: 40px;
+        border-radius: 50%;
+        color: #ffff;
+        font-size: 20px;
+    &:hover{
+        background-color: #ffffff6b;
+    }
+    }
+
 
 main{
     margin: 20px;
